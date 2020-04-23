@@ -6,3 +6,4 @@ Add extra text.
 First patch text.
 Second patch text.
 All is great!!!
+Add patch #B.
